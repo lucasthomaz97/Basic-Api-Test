@@ -1,5 +1,5 @@
 [project]
-name = "basic-api-consistency-test"
+name = "basic-api-test"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"

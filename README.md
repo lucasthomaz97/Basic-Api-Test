@@ -1,4 +1,4 @@
-# Basic API Consistency Test
+# Basic API Test
 
 [🇧🇷 Português](#português) | [🇺🇸 English](#english)
 
